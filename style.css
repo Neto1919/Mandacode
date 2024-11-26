@@ -1,0 +1,14 @@
+.quadrado {
+    background-color: red;
+    width: 350px;
+    height: 350px;
+    position: relative;
+    margin-left: 550px;
+    margin-top: 250px;
+}
+
+.quadradoInterno {
+    position: relative;
+    margin-left: 100px;
+    top: 100px;
+}
